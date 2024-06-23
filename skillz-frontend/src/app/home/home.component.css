@@ -1,0 +1,369 @@
+/* Navbar styling for mobile view */
+
+
+.form-2 {
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    
+}
+.button-2{
+    text-decoration: none; 
+    cursor: pointer;
+    background-color:#00ef98; 
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 70px;
+    border-radius:9px;
+    width:100%;
+    height: 60px;
+    display:flex; 
+    align-items:center;
+    justify-content: space-around;
+    color:white;
+    box-sizing: border-box;
+    margin-bottom: 70px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15;
+    font-weight: 700;
+}
+.select-field {
+    border-radius:9px;
+    width:100%;
+    height: 55px;
+    color:grey;
+    border:0px;
+    margin-bottom: 70px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding-left: 20px;
+    box-shadow: 0px 0px 20px -9px rgba(0,0,0,0.2);
+    outline: none;
+}
+.select-field option{
+    border-radius:9px;
+    width:100%;
+    color:grey ;
+    border:0px;
+    height: 100px;
+}
+
+
+.footer-logo{
+    margin-bottom:35px;
+}
+.footer-links-container{
+    flex: 1;
+    margin-right: 80px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 80px;
+    
+}
+.footer-links-container2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.wrapper-footer-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer{
+    padding-left:20px;
+    padding-right:20px;
+    padding-top: 60px;
+    color:grey;
+    background-color:#f5f6f7;
+}
+.footer-link{
+    text-decoration: none; 
+    cursor: pointer;
+    color:grey;
+    margin-bottom: 7px;
+}
+.section1{
+    background-color: white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+    
+}
+.section{
+    background-color: #f5f6f7;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top: 25px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.h1{
+    
+    font-family: 'Poppins', sans-serif;
+    font-size: 34px;
+    font-weight: 600;
+}
+.h3{
+    margin-bottom: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26;
+    font-weight: 600;
+    
+}
+.paragraph, .paragraph-2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 13px;
+    margin-bottom: 15px;
+}
+.small{
+    margin-bottom: 50px;
+}
+
+.dropdown-container {
+    position: relative;
+    display: inline-block;
+}
+
+.nav-container {
+    position: relative;
+}
+
+.dropdown-menu {
+    width: 435px;
+    top: 180px; /* Set the top to 50% to center vertically */
+    left: 50%; /* Set the left to 50% to center horizontally */
+    transform: translate(-50%, -50%); /* Center the menu using translate */
+    position: absolute;
+    background-color: #ffffff;
+    /* box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); */
+    z-index: 1;
+    text-align: center; /* Center-align the content */
+}
+
+.become-worker-button {
+    background-color: #00ef98;
+    color: white;
+    font-weight: 600;
+}
+
+.dropdown-menu a {
+    font-weight: 600;
+    padding: 12px 16px;
+    display: block;
+    text-decoration: none;
+    
+}
+
+.dropdown-menu a:hover {
+    background-color: #ddd;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #fff; /* Set your desired background color */
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.logo-div {
+    margin-right: auto; /* Push the logo to the left */
+    height: 27px;
+}
+
+.logo {
+    max-width: 100%;
+    height: auto;
+}
+
+image {
+    position: absolute;
+    top: 0px; /* Adjust the distance from the top */
+    right: 15px; /* Adjust the distance from the right */
+    max-width: 40px; /* Set your desired max width for the image */
+    height: auto;
+}
+
+.menu-button {
+    margin-left: 25px; /* Adjusted spacing between logo and menu button */
+    margin-right: 15px;
+    margin-bottom: 0px;
+}
+
+.menu-icon {
+    max-width: 40px; /* Set your desired max width for the menu icon */
+    height: auto;
+}
+
+
+.job-box {
+    background-color: #ffffff;
+    display: block;
+    list-style-type: none;
+    box-sizing: border-box;
+    border-radius:20px;
+    position: relative;
+    overflow: hidden;
+    height: 180px;
+    width: 100%;
+    margin-left: 0%;
+    margin-bottom: 8px;
+    text-decoration: none;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
+}
+
+.experience-logo {
+    width: 25px; /* Set the desired width for the circle */
+    height: 25px; /* Set the desired height for the circle */
+    border-radius: 50%; /* Make it a circle */
+
+  }
+
+.background-image {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the entire box */
+    filter: blur(1px);
+}
+
+.background-image-grey {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the entire box */
+    position: absolute;
+}
+
+.profileimage1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    overflow:hidden;
+    position: absolute;
+    top:0;
+    right:0;
+    margin: 20px;  
+    object-fit: cover;
+}
+
+.job-type-logo{
+    position: absolute;
+    top:0;
+    left:0;
+    margin: 20px;
+}
+ 
+.job-title{
+    position:absolute;
+    top: 0;
+    left: 10%;
+    margin: 20px; 
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    height: 1.5em;
+    color: #000000;
+}
+
+.rating1 {
+    position:absolute;
+    top: 12%;
+    margin: 20px; 
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 13px;
+    height: 1.5em;
+    color: #000000;
+}
+
+.username-profile{
+    position: absolute;
+    top: 30%;
+    left: 2%;
+    margin: 20px;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 16px;
+    height: 1.5em;
+    color: #000000;
+
+}
+
+.verified-image {
+    position: absolute;
+    top: 28%;
+    left: 35%;
+    margin: 20px;
+    width: 30px;
+    height: 30px;
+}
+
+.experience-logo {
+    position: absolute;
+    margin: 20px;
+    width: 20px;
+    height: 20px;
+    top: 47%;
+    left: 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+  
+li {
+    margin-left: 0;
+}
+
+
+.experience{
+    position: absolute;
+    margin: 20px;
+    top: 49%;
+    left: 10%;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 13px;
+    height: 1.5em;
+    color: #000000;
+
+}
+
+.certification-logo {
+    position: absolute;
+    margin: 20px;
+    width: 20px;
+    height: 20px;
+    top: 65%;
+    left: 0;
+}
+
+.certification-status {
+    position: absolute;
+    margin: 20px;
+    top: 67%;
+    left: 10%;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 13px;
+    height: 1.5em;
+    color: #000000;
+}

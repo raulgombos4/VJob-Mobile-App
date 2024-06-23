@@ -1,0 +1,767 @@
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\Users\Alina\Desktop\Skill_dev\SkillConnect\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\Users\Alina\Desktop\SkillzDev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.sourcelink.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\Users\Emi\dev\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\Users\Alina\Desktop\SkillzGit\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.sourcelink.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.sourcelink.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\claudiu\Facultate\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.sourcelink.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\SkillzGit9\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.staticwebassets.runtime.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.staticwebassets.runtime.json
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\claudiu\Facultate\Anul III - semestrul I\Proiect Colectiv\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.sourcelink.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Nitro\gombos\Chestii\SkillzGit\Skillz10\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.Development.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\appsettings.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.staticwebassets.runtime.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.exe
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.deps.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.runtimeconfig.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\skillz-backend.pdb
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Core.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Azure.Identity.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Humanizer.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.CodeDom.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Memory.Data.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Text.Json.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.AssemblyReference.cache
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfoInputs.cache
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.AssemblyInfo.cs
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.csproj.CoreCompileInputs.cache
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.sourcelink.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.build.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.development.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.skillz-backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.build.skillz-backend.props
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.skillz-backend.props
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.skillz-backend.props
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\staticwebassets.pack.json
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\scopedcss\bundle\skillz-backend.styles.css
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-b.420FB609.Up2Date
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\refint\skillz-backend.dll
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.pdb
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\skillz-backend.genruntimeconfig.cache
+D:\!Raul\licenta\Skillz\skillz-backend\skillz-backend\obj\Debug\net6.0\ref\skillz-backend.dll

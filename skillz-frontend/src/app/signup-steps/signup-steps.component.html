@@ -1,0 +1,77 @@
+<!-- login.component.html -->
+<div class="big-countainer">
+    <div class="container">
+        <div class="logo"></div>
+        <div class="signup-step-initial" *ngIf="showStepInitial" id="stepInitial">
+            <div class="form-group">
+                <label class="label">Email Address</label>
+                <div class="icon-div">
+                    <i class="fa fa-envelope icon"></i>
+                </div>
+                <input type="email" class="input" placeholder="alex@email.com" id="email" name="email" [(ngModel)]="email" required>
+            </div>
+    
+            <div class="form-group">
+                <label class="label">Password</label>
+                <div class="icon-div">
+                    <i class="fa fa-lock icon"></i>
+                </div>
+                <input type="password" class="input" placeholder="Enter your password" id="password" name="password" [(ngModel)]="password" required>
+            </div>
+    
+            <div class="form-group">
+                <label class="label">Confirm Password</label>
+                <div class="icon-div">
+                    <i class="fa fa-lock icon"></i>
+                </div>
+                <input type="password" class="input" placeholder="Confirm your password" id="password" name="password" [(ngModel)]="confirmPassword" required>
+                <div class="password-info">
+                    <div class="password-strength"></div>
+                    <div class="password-toggle"></div>
+                </div>
+            </div>
+    
+            <button class="signup-button" type="button" (click)="step_initial_action()">Sign Up</button>
+    
+            <div class="or-container">
+                <div class="or-line"></div>
+                <div class="or-text">OR</div>
+                <div class="or-line"></div>
+            </div>
+    
+            <button class="login-button" (click)="navigateToLogIn()">Log in into an existing account</button>
+        </div>
+        <div class="signup-step1" *ngIf="showStep1" id="step1">
+            <div class="header">Select a nickname that allows others to connect with you</div>
+            <div class="form-group">
+                <label class="label">Nickname</label>
+                <input type="nickname" class="input" placeholder="ex: Gombos Andrei" id="nickname" name="nickname" [(ngModel)]="nickname" required>
+            </div>
+
+            <button class="signup-button" (click)="step1_action()" type="button" style="bottom: 0px;" >Next Step</button>
+        </div>
+        <div class="signup-step2" *ngIf="showStep2" id="step2">
+            <div class="header">Opt for the location where you intend to utilize the app</div>
+            <div class="form-group">
+                <label class="label">Country</label>
+                <input type="text" class="input" placeholder="ex: Romania" id="nickname" name="nickname" [(ngModel)]="country" required>
+            </div>
+            <div class="form-group">
+                <label class="label">City</label>
+                <input type="text" class="input" placeholder="ex: Cluj Napoca" id="nickname" name="nickname" [(ngModel)]="city" required>
+            </div>
+
+            <button class="signup-button" (click)="step2_action()" type="button" style="bottom: 0px;" >Next Step</button>
+        </div>
+
+        <div class="signup-step3" *ngIf="showStep3" id="step3">
+            <div class="header">Your mobile number</div>
+            <div class="form-group">
+                <label class="label">Mobile Number</label>
+                <input type="text" class="input" placeholder="Enter your phone number" id="phone_number" name="phone_number" [(ngModel)]="phone_number" required>
+            </div>
+
+            <button class="signup-button" (click)="step3_action()" type="button" style="bottom: 0px;" >Next Step</button>
+        </div>
+    </div>
+</div>

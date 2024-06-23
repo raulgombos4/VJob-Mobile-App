@@ -1,0 +1,52 @@
+<!-- login.component.html -->
+<div class="base">
+    <div class="big-container">
+    <div class="container" >
+        <div class="profile">
+            <div class="w-layout-blockcontainer container-4 w-container"><img
+                loading="lazy" sizes="(max-width: 599px) 100vw, 599px"
+                srcset="https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863905_gardener-job-description-1659711272-p-500.webp 500w, https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863905_gardener-job-description-1659711272.webp 599w"
+                alt="" class="profileimage1" />
+            </div>
+            <div class="w-layout-cell cell-4 asd">
+                <h1 class="username-profile">{{username}}</h1>
+            </div>
+            <div class="w-layout-cell cell-4">
+                <h1 class="job-title">{{jobTitle}}</h1>
+            </div>
+        </div>
+        <div class="signup-step-initial" *ngIf="showStepInitial" id="stepInitial">
+            <div class="header">Choose a date when the worker should come.</div>
+            <div class="form-group">
+                <label class="label">Date</label>
+                <mat-form-field>
+                    <input matInput [matDatepicker]="picker" [(ngModel)]="selectedDate" (dateInput)="onDateSelected($event)" [matDatepickerFilter]="dateFilter" />
+                    <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+                    <mat-datepicker #picker></mat-datepicker>
+                  </mat-form-field>
+            </div>
+    
+            <button class="signup-button" type="button" (click)="step_initial_action()">Next Step</button>
+            <div class="or-container">
+                <div class="or-line"></div>
+            </div>
+            <button class="login-button" (click)="navigateToLogIn()">Back to home</button>
+        </div>
+
+
+        <div class="signup-step1" *ngIf="showStep1" id="step1">
+            <div style="margin-top: 60px;" class="header">Choose the location and give some details of the work</div>
+            <div class="form-group">
+                <label class="label">Location</label>
+                <input type="" class="input" placeholder="Cluj, Cluj Napoca" id="email" name="email" required>
+            </div>
+            <div class="form-group">
+                <label class="label">Details</label>
+                <textarea class="description" id="description" name="description" [(ngModel)]="details" placeholder="e.g., Transforming ordinary lawns into lush havens, our gardening service goes beyond mere maintenance; we cultivate vibrant landscapes, bringing the beauty of nature to your doorstep." required></textarea> 
+            </div>
+
+            <button class="signup-button" (click)="step1_action()" type="button" style="bottom: 0px;" >Complete Appointment</button>
+        </div>
+    </div>
+</div>
+</div>

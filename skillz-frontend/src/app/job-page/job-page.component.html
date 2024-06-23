@@ -1,0 +1,134 @@
+<div data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
+    role="banner" class="nav-bar allah w-nav">
+    <div class="nav-mate" data-collapse="small" data-animation="default" data-duration="400" data-easing="ease" data-easing2="ease"
+role="banner" class="nav-bar w-nav">
+<div class="nav-container w-container" style="width: 435px;">
+    <div class="logo-div"><a href="/home" aria-current="page" class="nav-logo w-inline-block w--current"><img
+                src="assets/skillz-logo.png"
+                width="86" sizes="86px"
+                srcset="assets/skillz-logo.png 500w, assets/skillz-logo.png 800w, assets/skillz-logo.png 1080w, assets/skillz-logo.png 1374w"
+                alt="" class="logo" /></a></div>
+    <div class="profile-button w-profile-button"><a href="/profile"><img
+            src="https://assets-global.website-files.com/655f2e25b60b56edbedee980/655f37d295b2efa3dbfcb4ae_user%20(3).png"
+        loading="lazy" width="22" sizes="(max-width: 991px) 22px, (max-width: 1279px) 2vw, 22px" alt=""
+        srcset="https://assets-global.website-files.com/655f2e25b60b56edbedee980/655f37d295b2efa3dbfcb4ae_user%20(3)-p-500.png 500w, https://assets-global.website-files.com/655f2e25b60b56edbedee980/655f37d295b2efa3dbfcb4ae_user%20(3).png 512w"
+        class="image" /></a></div>
+    <div class="menu-button w-nav-button" (click)="toggleDropdown()">
+        <img src="https://assets-global.website-files.com/655f2e25b60b56edbedee980/655f37b92b05517bd6be65fe_dots.png"
+            loading="lazy" width="24" sizes="(max-width: 479px) 24px, 100vw" alt=""
+            srcset="https://assets-global.website-files.com/655f2e25b60b56edbedee980/655f37b92b05517bd6be65fe_dots-p-500.png 500w, https://assets-global.website-files.com/655f2e25b60b56edbedee980/655f37b92b05517bd6be65fe_dots.png 512w"
+            class="menu-icon" />
+    </div>
+</div>
+<div id="dropdownMenu" class="dropdown-menu" *ngIf="isDropdownVisible">
+    <a href="/appointments" style="color: #000;" >Appointments</a>
+    <a href="/history" style="color: #000;" >History</a>
+    <a href="/my-services" style="color: #000;" >My Services</a>
+    <a href="/login" style="color: #000;" >Log Out</a>
+    <a href="/job-post" class="become-worker-button">Become a Worker!</a>
+</div>
+</div> 
+</div>
+<div style="background-color: white;">
+<div style="background-color: white; width: 100%;" class="page-wrapper">
+    <section class="section-2" style="background-color: white; width: 100%;">
+        <div class="w-layout-blockcontainer container-9 w-container">
+            <h1 class="heading-12" >{{jobTitle}}></h1>
+            <div id="w-node-_89e9002d-f55b-d64b-e852-b17d5180dafd-af863937"
+                class="profile-box">
+                <div class="w-layout-cell profileimagediv fdg">
+                    <div class="w-layout-blockcontainer container-4 w-container"><img
+                            src="https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863905_gardener-job-description-1659711272.webp"
+                            loading="lazy" sizes="(max-width: 599px) 100vw, 599px"
+                            srcset="https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863905_gardener-job-description-1659711272-p-500.webp 500w, https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863905_gardener-job-description-1659711272.webp 599w"
+                            alt="" class="profileimage" /></div>
+                </div>
+                <div class="w-layout-cell cell">
+                    <div id="w-node-_619bcc74-868e-7dcd-2e50-b8e4296dc935-af863937"
+                        class="w-layout-layout quick-stack-3 wf-layout-layout">
+                        <div id="w-node-_619bcc74-868e-7dcd-2e50-b8e4296dc936-af863937" class="w-layout-cell cell-4">
+                            <h1 class="username" >{{username}}</h1>
+                        </div>
+                        <div id="w-node-_619bcc74-868e-7dcd-2e50-b8e4296dc937-af863937" class="w-layout-cell cell-3">
+                            <div class="w-layout-blockcontainer container-5 allagh w-container"><img
+                                    src="https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863912_6928921.png"
+                                    loading="lazy" sizes="(max-width: 512px) 100vw, 512px"
+                                    srcset="https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863912_6928921-p-500.png 500w, https://assets-global.website-files.com/65635da09dc83a90af8638e0/65635da09dc83a90af863912_6928921.png 512w"
+                                    alt="" class="image-4" /></div>
+                        </div>
+                    </div>
+                    <p class="memberdate">Member since 19.01.2022</p>
+                </div>
+            </div>
+            <ul role="list" class="w-list-unstyled">
+                <li *ngFor="let certificate of certificates; let j = index" class="listitemcertificate" [attr.data-index]="j + 1">
+                    <div id="w-node-_7d96fc3a-d0a1-c8a8-320c-59aa71150af9-42a6db5f"
+                        class="w-layout-layout quick-stack-4 wf-layout-layout">
+                        <div class="w-layout-cell">
+                            <h1 class="heading-9 certificatename certificatetype">{{ certificate}}</h1>
+                            <h1 class="heading-9 experiencedyears">Unknown years of experience</h1>
+                        </div>
+                        <div class="certifpoza"><img
+                                src="https://assets-global.website-files.com/655f2e25b60b56edbedee980/6560d61756883c569fca7788_certificate%20(2).png"
+                                loading="lazy" width="39" sizes="39px" alt=""
+                                srcset="https://assets-global.website-files.com/655f2e25b60b56edbedee980/6560d61756883c569fca7788_certificate%20(2)-p-500.png 500w, https://assets-global.website-files.com/655f2e25b60b56edbedee980/6560d61756883c569fca7788_certificate%20(2).png 512w" />
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <div class="section light-color-gradient">
+        <div data-delay="4000" data-animation="slide" class="w-slider" data-autoplay="false" data-easing="ease"
+            data-hide-arrows="false" data-disable-swipe="false" data-autoplay-limit="0" data-nav-spacing="3"
+            data-duration="500" data-infinite="true">
+            <div class="w-slider-mask">
+                <div *ngFor="let image of images; let i = index" class="slide w-slide"
+                [style.background-image]="'url(' + image + ')'" [attr.data-index]="i + 1"></div>
+            </div>
+            <div class="w-slider-arrow-left arrow" (click)="prevImage()">
+                <i class="fa fa-chevron-left"></i>
+              </div>
+              <div class="w-slider-arrow-right arrow" (click)="nextImage()">
+                <i class="fa fa-chevron-right"></i>
+              </div>
+              <div class="w-slider-nav w-round w-num"></div>              
+        </div>
+        <div class="button-div"><a href="#" (click)="redirectToBookForm()" class="button-4 w-button">Book
+                Now</a></div>
+        <div class="w-layout-blockcontainer container-7 w-container">
+            <h1 class="profileheading">Description</h1>
+            <p class="paragraph-6" >{{description}}</p>
+        </div>
+    </div>
+</div>
+<div class="footer">
+    <div class="footer-container w-container">
+        <div class="w-layout-grid footer-grid">
+            <div id="w-node-b8d7be4a-ce45-83ab-5947-02d204c8bff0-cf3fcb86" class="footer-logo-block"><a data-ix="logo"
+                    href="/" class="footer-logo w-nav-brand"><img
+                    src="assets/skillz-logo.png"
+                    width="130" sizes="130px"
+                    srcset="assets/skillz-logo.png 500w, assets/skillz-logo.png 800w, assets/skillz-logo.png 1080w, assets/skillz-logo.png 1374w"
+                        alt="" /></a>
+                <div class="spacer _16"></div>
+                <div class="paragraph small">© 2023 VJob. All Rights Reserved.</div>
+            </div>
+            <div class="footer-links-container">
+                <h5 class="footer-header">Website</h5><a href="/" class="footer-link">Home</a><a href="/"
+                    class="footer-link">Contact</a><a href="/" class="footer-link">Report</a><a href="/"
+                    class="footer-link">Terms &amp; Conditions</a><a href="/" class="footer-link">Privacy Policy</a>
+            </div>
+            <div class="footer-links-container">
+                <h5 class="footer-header">Membership</h5><a href="/" class="footer-link">Sign In</a><a href="/"
+                    class="footer-link">Sign Up</a><a href="/" class="footer-link">User Account</a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=65635da09dc83a90af8638e0"
+    type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+    crossorigin="anonymous"></script>
+<script src="https://assets-global.website-files.com/65635da09dc83a90af8638e0/js/webflow.12ca9bf1a.js"
+    type="text/javascript"></script>

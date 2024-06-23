@@ -1,0 +1,217 @@
+.big-container{
+    height: 100%;
+    background-color: white;
+  }
+  .container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    width: 100%; /* Set width to 100% for mobile devices */
+    /* Set a maximum width for larger screens */
+  }
+  
+  .container .header,
+  .container .logo,
+  .container .password-info{
+    margin-bottom: 50px;
+  }
+  
+  .container .form-group{
+    margin-bottom: 25px;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 60px; /* Updated size to 40px for larger screens */
+    font-weight: bold; /* Make it bold */
+    margin-bottom: 20px;
+  }
+  
+  .logo {
+    display: block;
+    margin: 0 auto 20px;
+  }
+  
+  .logo img {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    position: relative;
+  }
+  
+  .label {
+    font-size: 16px;
+    font-weight: regular;
+    display: block;
+    margin-bottom: 5px;
+    color: #555555
+  }
+  
+  .input {
+    font-family: 'Poppins', sans-serif;
+    font-weight: regular;
+    height: 47px;
+    width: 100%;
+    border: 1px solid #F1F3F6;
+    background-color: #F1F3F6;
+    color: #555555;
+    border-radius: 9px;
+    outline: none;
+  }
+
+  .input:hover{
+    border: 1px solid #F1F3F6;
+    background-color: #ffffff;
+  }
+  .input:focus {
+    background-color: #e3e3e3;
+  }
+
+  .input::placeholder {
+    padding-left: 18px;
+  }
+  
+  .icon-div {
+    position: absolute;
+    width: 50px;
+    height: 51px;
+    right: -6px;
+    background: #01FDB1;
+    border-radius: 9px;
+    opacity: 1;
+    overflow: hidden;
+    z-index: 1;
+  }
+  .icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 28px;
+    color: white;
+  }
+  
+  .password-info {
+    display: flex;
+    justify-content: space-between;
+  }
+  /*
+  .forgot-password {
+    font-size: 14px;
+    color: #3498db;
+    text-decoration: none;
+  }
+  */
+  .signup-button{
+    font-family: 'Poppins', sans-serif;
+    font-weight: regular;
+    height: 50px;
+    width: 100%;
+    background-color: #01FDB1;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .login-button {
+    font-family: 'Poppins', sans-serif;
+    font-weight: regular;
+    height: 50px;
+    width: 100%;
+    background-color: #ffffff;
+    color: #01FDB1;
+    padding: 10px;
+    border: 1px solid #01FDB1;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .or-container {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+  }
+  .or-line {
+    flex: 1;
+    height: 1px;
+    background-color: #ff0000; /* Example background color for the line */
+  }
+  
+  .or-text {
+    padding: 0 10px;
+    color: #ff0000;
+    font-size: 14px;
+  }
+  
+  .or-line {
+    flex: 1;
+    height: 1px;
+    background-color: #ccc;
+  }
+  
+  .or-text {
+    padding: 0 10px;
+    color: #888;
+    font-size: 14px;
+  }
+  
+  .logo {
+    width: 210px;
+    height: 68px;
+    background: url("./images/skillz-logo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+  
+  /* Media Queries for Responsive Design */
+  
+  @media screen and (max-width: 420) {
+    body{
+      background-color: white;
+    }
+    .container{
+      width: 75%;
+    }
+    .header {
+      font-size: 15px; /* Adjusted size to 40px for larger screens */
+    }
+  
+    .label {
+      font-size: 15px; /* Adjusted size to 30px for larger screens */
+    }
+  
+    .input,
+    .forgot-password,
+    .login-button,
+    .signup-button,
+    .or-text {
+      font-size: 15; /* Adjusted size to 30px for larger screens */
+    }
+  }
+  
+  @media screen and (min-width: 400px) {
+    .container{
+      width: 370px;
+    }
+    .header {
+      font-size: 18px; /* Adjusted size to 40px for larger screens */
+    }
+  
+    .label {
+      font-size: 15px; /* Adjusted size to 30px for larger screens */
+    }
+  
+    .input,
+    .forgot-password,
+    .login-button,
+    .signup-button,
+    .or-text {
+      font-size: 15px; /* Adjusted size to 30px for larger screens */
+    }
+  }

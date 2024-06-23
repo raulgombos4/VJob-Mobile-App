@@ -1,0 +1,60 @@
+<!-- login.component.html -->
+<div class="big-countainer">
+    <div class="container">
+        <div class="logo"></div>
+        <div class="signup-step-initial" *ngIf="showStepInitial" id="stepInitial">
+            <div class="header">Select the specialization you want to present to your potentialy customers</div>
+            <div class="form-group">
+                <label class="label">Specialization</label>
+                <select id="field" name="field" [(ngModel)]="selectedJobTitle" class="select-field w-select">
+                    <option value="" disabled>Select your specialization</option>
+                    <option *ngFor="let title of jobTitles" [value]="title">{{ title }}</option>
+                  </select>
+            </div>
+    
+            <button class="signup-button" type="button" (click)="step_initial_action()">Next Step</button>
+    
+            <div class="or-container">
+                <div class="or-line"></div>
+                <div class="or-text">OR</div>
+                <div class="or-line"></div>
+            </div>
+    
+            <button class="login-button" (click)="navigateToLogIn()">Back to home</button>
+        </div>
+        <div class="signup-step1" *ngIf="showStep1" id="step1">
+            <div class="header">Craft an irresistible description that vividly communicates the unique value of your service.</div>
+            <div class="form-group">
+                <label class="label">Description</label>
+                <textarea class="description" id="description" name="description" [(ngModel)]="details" placeholder="e.g., Transforming ordinary lawns into lush havens, our gardening service goes beyond mere maintenance; we cultivate vibrant landscapes, bringing the beauty of nature to your doorstep." required></textarea> 
+            </div>
+
+            <button class="signup-button" (click)="step1_action()" type="button" style="bottom: 0px;" >Next Step</button>
+        </div>
+        <div class="signup-step2" *ngIf="showStep2" id="step2">
+            <div class="header">Quantify your expertise in years—let the number speak to the depth of your seasoned proficiency</div>
+            <div class="form-group">
+                <label class="label">Experienced years</label>
+                <input type="number" class="input" placeholder="ex: 6" id="experiencedYears" name="experiencedYears" [(ngModel)]="experiencedYears" required>
+            </div>
+
+            <button class="signup-button" (click)="step2_action()" type="button" style="bottom: 0px;" >Next Step</button>
+        </div>
+
+        <div class="signup-step3" *ngIf="showStep3" id="step3">
+            <div class="header">Upload images with your work</div>
+            <div class="form-group">
+                <label class="label">Upload Images</label>
+                <div class="image-upload-container">
+                    <input type="file" id="imageUpload" name="imageUpload" (change)="handleImageUpload($event)" multiple accept="image/*">
+                    
+                    <div *ngFor="let imageFile of imageFiles; let i = index" class="image-preview">
+                      <img [src]="getPreviewImage(imageFile)" alt="Image Preview">
+                      <button type="button" (click)="removeImage(i)">Remove</button>
+                    </div>
+                  </div>
+            </div>
+            <button class="signup-button" (click)="step3_action()" type="button" style="bottom: 0px;" >Next Step</button>
+        </div>
+    </div>
+</div>

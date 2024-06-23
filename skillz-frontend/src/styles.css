@@ -1,0 +1,18 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  height: 100%;
+  background: radial-gradient(circle, aquamarine, white);
+}
+
+app-root {
+  width: 100%; /* Ensure the app-root takes the full width */
+  max-width: 435px; /* Set a maximum width for the app-root */
+  background-color: white;
+}
+
